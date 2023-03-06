@@ -27,14 +27,6 @@ _Example_
 
 To access the `applyEncryption` attribute from `Envionment` class to Response Handler, write `environment.applyEncryption`;
 
-## Default System Health Status API
-
-- `${host}/api/status/system` - Return the system information in response
-- `${host}/api/status/time` - Return the current time in response
-- `${host}/api/status/usage` - Return the process and system memory usage in response
-- `${host}/api/status/process` - Return the process details in response
-- `${host}/api/status/error` - Return the error generated object in response
-
 ## Notes
 
 ### 1. Why is my git pre-commit hook not executable by default?
